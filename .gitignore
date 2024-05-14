@@ -9,3 +9,11 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+
+# ignore files and folders
+Logs/
+action_detection_5_signs/
+action_detection_5_signs.7z
+_.npy
+action_my_5.keras
+5.npy
